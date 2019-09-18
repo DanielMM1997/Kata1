@@ -19,6 +19,5 @@ public class Person {
     public Date getBirthday() {
         return birthday;
     }
-    
-    
+
 }
